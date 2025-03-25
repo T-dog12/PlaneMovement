@@ -155,6 +155,3 @@ void AMyPlane::ChangePitch()
 	}
 }
 
-// speed too low = falling
-// check forward vol
-//		too low fall
